@@ -1,0 +1,6 @@
+{
+  "code": ["code", "build", "program", "python", "function", "script", "debug"],
+  "cyber": ["hack", "pentest", "vulnerability", "scan", "security", "exploit"],
+  "agent": ["automate", "workflow", "schedule", "task", "agent"],
+  "general": []
+}
