@@ -26,8 +26,6 @@ pycaw
 comtypes
 apscheduler
 pystray
-pillow
 keyboard
 pyinstaller
 pyinstaller-hooks-contrib
-pynput

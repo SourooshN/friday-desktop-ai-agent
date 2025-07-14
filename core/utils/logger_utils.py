@@ -22,3 +22,10 @@ def ensure_log_dir():
     """Ensures that the log directory exists."""
     os.makedirs(log_dir, exist_ok=True)
     return log_dir
+
+def write_log(entry: str):
+    """Append a raw log entry string to the input log file."""
+    ensure_log_dir()
+    log_file_path = os.path.join(log_dir, "input_log.txt")
+    with open(log_file_path, "a", encoding="utf-8") as log_file:
+        log_file.write(entry)

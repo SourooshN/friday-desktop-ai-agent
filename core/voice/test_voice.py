@@ -12,7 +12,7 @@ def speak(text):
     os.remove(filename)
 
 def listen():
-    """Listens to the microphone and returns recognized speech."""
+    """Listen to the microphone, printing and speaking the recognized text."""
     recognizer = sr.Recognizer()
     with sr.Microphone() as source:
         print("🎤 Say something...")
