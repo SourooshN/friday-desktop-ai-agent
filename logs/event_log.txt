@@ -550,3 +550,483 @@
 [2025-07-12 13:11:05] MOUSE CLICK: Released Button.left at (1156, 1365)
 [2025-07-12 13:11:06] SPECIAL KEY PRESS: Key: Key.ctrl_l
 [2025-07-12 13:11:07] KEY PRESS: Key: 
+[2025-07-14 12:51:27] SPECIAL KEY PRESS: Key: Key.media_volume_mute
+[2025-07-14 12:51:29] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:29] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:30] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:31] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:31] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:31] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:31] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:31] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:31] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:31] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:31] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:31] SPECIAL KEY PRESS: Key: Key.media_volume_mute
+[2025-07-14 12:51:33] SPECIAL KEY PRESS: Key: Key.media_volume_mute
+[2025-07-14 12:51:33] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:33] SPECIAL KEY PRESS: Key: Key.media_volume_mute
+[2025-07-14 12:51:36] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:37] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:37] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:37] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:37] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:37] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:37] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:37] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:37] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:38] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:39] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:39] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:39] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:40] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:41] SPECIAL KEY PRESS: Key: Key.media_volume_mute
+[2025-07-14 12:51:44] SPECIAL KEY PRESS: Key: Key.media_volume_mute
+[2025-07-14 12:51:45] SPECIAL KEY PRESS: Key: Key.media_volume_mute
+[2025-07-14 12:51:47] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:53] SPECIAL KEY PRESS: Key: Key.media_volume_up
+[2025-07-14 12:51:54] SPECIAL KEY PRESS: Key: Key.media_volume_up
+[2025-07-14 12:51:54] SPECIAL KEY PRESS: Key: Key.media_volume_up
+[2025-07-14 12:51:55] SPECIAL KEY PRESS: Key: Key.media_volume_up
+[2025-07-14 12:51:55] SPECIAL KEY PRESS: Key: Key.media_volume_up
+[2025-07-14 12:51:55] SPECIAL KEY PRESS: Key: Key.media_volume_up
+[2025-07-14 12:51:56] SPECIAL KEY PRESS: Key: Key.media_volume_up
+[2025-07-14 12:51:56] SPECIAL KEY PRESS: Key: Key.media_volume_up
+[2025-07-14 12:51:57] SPECIAL KEY PRESS: Key: Key.media_volume_up
+[2025-07-14 12:51:57] SPECIAL KEY PRESS: Key: Key.media_volume_up
+[2025-07-14 12:51:58] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 12:51:59] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 12:52:00] KEY PRESS: Key: 
+[2025-07-14 13:03:22] SPECIAL KEY PRESS: Key: Key.media_volume_up
+[2025-07-14 13:03:23] SPECIAL KEY PRESS: Key: Key.media_volume_up
+[2025-07-14 13:03:24] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 13:03:57] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 13:03:58] KEY PRESS: Key: 
+[2025-07-14 13:04:24] KEY PRESS: Key: g
+[2025-07-14 13:04:24] KEY PRESS: Key: i
+[2025-07-14 13:04:24] KEY PRESS: Key: v
+[2025-07-14 13:04:24] KEY PRESS: Key: e
+[2025-07-14 13:04:25] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 13:04:25] KEY PRESS: Key: m
+[2025-07-14 13:04:25] KEY PRESS: Key: e
+[2025-07-14 13:04:25] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 13:04:25] KEY PRESS: Key: a
+[2025-07-14 13:04:25] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 13:04:25] KEY PRESS: Key: p
+[2025-07-14 13:04:26] KEY PRESS: Key: h
+[2025-07-14 13:04:27] SPECIAL KEY PRESS: Key: Key.backspace
+[2025-07-14 13:04:28] KEY PRESS: Key: p
+[2025-07-14 13:04:28] KEY PRESS: Key: y
+[2025-07-14 13:04:28] KEY PRESS: Key: t
+[2025-07-14 13:04:29] KEY PRESS: Key: h
+[2025-07-14 13:04:29] KEY PRESS: Key: o
+[2025-07-14 13:04:29] KEY PRESS: Key: n
+[2025-07-14 13:04:29] KEY PRESS: Key: g
+[2025-07-14 13:04:30] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 13:04:30] KEY PRESS: Key: 
+[2025-07-14 13:22:47] MOUSE CLICK: Pressed Button.left at (2130, 1567)
+[2025-07-14 13:22:47] MOUSE CLICK: Released Button.left at (2130, 1567)
+[2025-07-14 13:22:59] MOUSE CLICK: Pressed Button.left at (2057, 1575)
+[2025-07-14 13:22:59] MOUSE CLICK: Released Button.left at (2057, 1575)
+[2025-07-14 13:23:04] MOUSE CLICK: Pressed Button.left at (2321, 1581)
+[2025-07-14 13:23:04] MOUSE CLICK: Released Button.left at (2321, 1581)
+[2025-07-14 13:23:10] MOUSE CLICK: Pressed Button.left at (2327, 1581)
+[2025-07-14 13:23:10] MOUSE CLICK: Released Button.left at (2327, 1581)
+[2025-07-14 13:23:11] MOUSE CLICK: Pressed Button.left at (2226, 1585)
+[2025-07-14 13:23:11] MOUSE CLICK: Released Button.left at (2226, 1585)
+[2025-07-14 13:23:13] MOUSE CLICK: Pressed Button.left at (2226, 1585)
+[2025-07-14 13:23:13] MOUSE CLICK: Released Button.left at (2226, 1585)
+[2025-07-14 13:23:14] MOUSE CLICK: Pressed Button.left at (2433, 1574)
+[2025-07-14 13:23:14] MOUSE CLICK: Released Button.left at (2433, 1574)
+[2025-07-14 13:23:25] MOUSE CLICK: Pressed Button.left at (2311, 1569)
+[2025-07-14 13:23:25] MOUSE CLICK: Released Button.left at (2311, 1569)
+[2025-07-14 13:23:34] MOUSE CLICK: Pressed Button.left at (2426, 1573)
+[2025-07-14 13:23:34] MOUSE CLICK: Released Button.left at (2426, 1573)
+[2025-07-14 13:23:36] MOUSE CLICK: Pressed Button.left at (2163, 230)
+[2025-07-14 13:23:36] MOUSE CLICK: Released Button.left at (2163, 230)
+[2025-07-14 13:23:39] MOUSE CLICK: Pressed Button.left at (2374, 535)
+[2025-07-14 13:23:39] MOUSE CLICK: Released Button.left at (2374, 535)
+[2025-07-14 13:23:40] MOUSE CLICK: Pressed Button.left at (2436, 246)
+[2025-07-14 13:23:41] MOUSE CLICK: Released Button.left at (2436, 246)
+[2025-07-14 13:23:42] MOUSE CLICK: Pressed Button.left at (2371, 1599)
+[2025-07-14 13:23:42] MOUSE CLICK: Released Button.left at (2371, 1599)
+[2025-07-14 13:23:44] MOUSE CLICK: Pressed Button.left at (2371, 1599)
+[2025-07-14 13:23:44] MOUSE CLICK: Released Button.left at (2371, 1599)
+[2025-07-14 13:23:45] MOUSE CLICK: Pressed Button.left at (2469, 1561)
+[2025-07-14 13:23:45] MOUSE CLICK: Released Button.left at (2469, 1561)
+[2025-07-14 13:23:57] MOUSE CLICK: Pressed Button.left at (2480, 1578)
+[2025-07-14 13:23:57] MOUSE CLICK: Released Button.left at (2480, 1578)
+[2025-07-14 13:23:58] MOUSE CLICK: Pressed Button.left at (2178, 1579)
+[2025-07-14 13:23:58] MOUSE CLICK: Released Button.left at (2178, 1579)
+[2025-07-14 13:24:13] MOUSE CLICK: Pressed Button.left at (1865, 1564)
+[2025-07-14 13:24:13] MOUSE CLICK: Released Button.left at (1865, 1564)
+[2025-07-14 13:24:16] MOUSE CLICK: Pressed Button.left at (318, 1138)
+[2025-07-14 13:24:16] MOUSE CLICK: Released Button.left at (318, 1138)
+[2025-07-14 13:24:19] SPECIAL KEY PRESS: Key: Key.alt_l
+[2025-07-14 13:24:19] SPECIAL KEY PRESS: Key: Key.tab
+[2025-07-14 13:24:26] MOUSE CLICK: Pressed Button.left at (1189, 1307)
+[2025-07-14 13:24:31] MOUSE CLICK: Released Button.left at (983, 1117)
+[2025-07-14 13:24:32] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 13:24:33] KEY PRESS: Key: 
+[2025-07-14 13:24:35] MOUSE CLICK: Pressed Button.left at (1394, 1472)
+[2025-07-14 13:24:35] MOUSE CLICK: Released Button.left at (1394, 1472)
+[2025-07-14 13:24:36] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 13:24:36] KEY PRESS: Key: 
+[2025-07-14 13:38:33] MOUSE CLICK: Pressed Button.left at (2155, 1574)
+[2025-07-14 13:38:33] MOUSE CLICK: Released Button.left at (2155, 1574)
+[2025-07-14 13:38:36] MOUSE CLICK: Pressed Button.right at (2098, 1361)
+[2025-07-14 13:38:36] MOUSE CLICK: Released Button.right at (2098, 1361)
+[2025-07-14 13:38:37] MOUSE CLICK: Pressed Button.left at (2054, 1297)
+[2025-07-14 13:38:38] MOUSE CLICK: Released Button.left at (2054, 1297)
+[2025-07-14 13:38:45] MOUSE CLICK: Pressed Button.left at (384, 267)
+[2025-07-14 13:38:45] MOUSE CLICK: Released Button.left at (384, 267)
+[2025-07-14 13:38:46] MOUSE CLICK: Pressed Button.left at (379, 276)
+[2025-07-14 13:38:47] MOUSE CLICK: Released Button.left at (379, 276)
+[2025-07-14 13:38:48] KEY PRESS: Key: w
+[2025-07-14 13:38:48] KEY PRESS: Key: r
+[2025-07-14 13:38:50] SPECIAL KEY PRESS: Key: Key.backspace
+[2025-07-14 13:38:50] SPECIAL KEY PRESS: Key: Key.backspace
+[2025-07-14 13:38:50] KEY PRESS: Key: w
+[2025-07-14 13:38:50] KEY PRESS: Key: h
+[2025-07-14 13:38:50] KEY PRESS: Key: a
+[2025-07-14 13:38:50] KEY PRESS: Key: t
+[2025-07-14 13:38:51] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 13:38:51] KEY PRESS: Key: i
+[2025-07-14 13:38:51] KEY PRESS: Key: s
+[2025-07-14 13:38:51] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 13:38:51] KEY PRESS: Key: t
+[2025-07-14 13:38:51] KEY PRESS: Key: h
+[2025-07-14 13:38:51] KEY PRESS: Key: e
+[2025-07-14 13:38:51] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 13:38:52] KEY PRESS: Key: t
+[2025-07-14 13:38:52] KEY PRESS: Key: i
+[2025-07-14 13:38:52] KEY PRESS: Key: m
+[2025-07-14 13:38:52] KEY PRESS: Key: e
+[2025-07-14 13:38:53] SPECIAL KEY PRESS: Key: Key.enter
+[2025-07-14 13:38:57] SPECIAL KEY PRESS: Key: Key.media_volume_up
+[2025-07-14 13:38:58] SPECIAL KEY PRESS: Key: Key.media_volume_up
+[2025-07-14 13:38:59] KEY PRESS: Key: w
+[2025-07-14 13:39:00] KEY PRESS: Key: h
+[2025-07-14 13:39:00] KEY PRESS: Key: a
+[2025-07-14 13:39:00] KEY PRESS: Key: t
+[2025-07-14 13:39:00] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 13:39:00] KEY PRESS: Key: i
+[2025-07-14 13:39:00] KEY PRESS: Key: s
+[2025-07-14 13:39:00] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 13:39:00] KEY PRESS: Key: t
+[2025-07-14 13:39:01] KEY PRESS: Key: h
+[2025-07-14 13:39:01] KEY PRESS: Key: e
+[2025-07-14 13:39:01] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 13:39:01] KEY PRESS: Key: t
+[2025-07-14 13:39:01] KEY PRESS: Key: i
+[2025-07-14 13:39:01] KEY PRESS: Key: o
+[2025-07-14 13:39:01] KEY PRESS: Key: m
+[2025-07-14 13:39:01] KEY PRESS: Key: e
+[2025-07-14 13:39:02] MOUSE CLICK: Pressed Button.left at (379, 276)
+[2025-07-14 13:39:02] MOUSE CLICK: Released Button.left at (379, 276)
+[2025-07-14 13:39:03] MOUSE CLICK: Pressed Button.left at (379, 276)
+[2025-07-14 13:39:03] MOUSE CLICK: Released Button.left at (379, 276)
+[2025-07-14 13:39:03] MOUSE CLICK: Pressed Button.left at (442, 193)
+[2025-07-14 13:39:05] MOUSE CLICK: Released Button.left at (1827, 617)
+[2025-07-14 13:39:06] MOUSE CLICK: Pressed Button.left at (1885, 700)
+[2025-07-14 13:39:06] MOUSE CLICK: Released Button.left at (1885, 700)
+[2025-07-14 13:39:07] KEY PRESS: Key: s
+[2025-07-14 13:39:07] KEY PRESS: Key: d
+[2025-07-14 13:39:07] KEY PRESS: Key: f
+[2025-07-14 13:39:07] KEY PRESS: Key: s
+[2025-07-14 13:39:07] KEY PRESS: Key: d
+[2025-07-14 13:39:07] KEY PRESS: Key: f
+[2025-07-14 13:39:07] KEY PRESS: Key: s
+[2025-07-14 13:39:07] KEY PRESS: Key: f
+[2025-07-14 13:39:08] KEY PRESS: Key: s
+[2025-07-14 13:39:08] MOUSE CLICK: Pressed Button.left at (1851, 746)
+[2025-07-14 13:39:08] MOUSE CLICK: Released Button.left at (1851, 746)
+[2025-07-14 13:39:09] MOUSE CLICK: Pressed Button.left at (1851, 746)
+[2025-07-14 13:39:09] MOUSE CLICK: Released Button.left at (1851, 746)
+[2025-07-14 13:39:13] MOUSE CLICK: Pressed Button.left at (2152, 1574)
+[2025-07-14 13:39:13] MOUSE CLICK: Released Button.left at (2152, 1574)
+[2025-07-14 13:39:14] MOUSE CLICK: Pressed Button.left at (2103, 1355)
+[2025-07-14 13:39:15] MOUSE CLICK: Released Button.left at (2103, 1355)
+[2025-07-14 13:39:15] MOUSE CLICK: Pressed Button.right at (2101, 1356)
+[2025-07-14 13:39:15] MOUSE CLICK: Released Button.right at (2101, 1356)
+[2025-07-14 13:39:17] MOUSE CLICK: Pressed Button.left at (2017, 1312)
+[2025-07-14 13:39:17] MOUSE CLICK: Released Button.left at (2017, 1312)
+[2025-07-14 13:39:19] MOUSE CLICK: Pressed Button.left at (358, 318)
+[2025-07-14 13:39:19] MOUSE CLICK: Released Button.left at (358, 318)
+[2025-07-14 13:39:20] KEY PRESS: Key: a
+[2025-07-14 13:39:20] KEY PRESS: Key: d
+[2025-07-14 13:39:20] KEY PRESS: Key: f
+[2025-07-14 13:39:20] KEY PRESS: Key: d
+[2025-07-14 13:39:20] KEY PRESS: Key: f
+[2025-07-14 13:39:20] KEY PRESS: Key: f
+[2025-07-14 13:39:20] KEY PRESS: Key: d
+[2025-07-14 13:39:22] SPECIAL KEY PRESS: Key: Key.cmd
+[2025-07-14 13:39:22] SPECIAL KEY PRESS: Key: Key.shift
+[2025-07-14 13:39:22] KEY PRESS: Key: S
+[2025-07-14 13:39:25] MOUSE CLICK: Pressed Button.left at (195, 182)
+[2025-07-14 13:39:27] MOUSE CLICK: Released Button.left at (2001, 1498)
+[2025-07-14 13:39:31] MOUSE CLICK: Pressed Button.left at (1564, 1483)
+[2025-07-14 13:39:31] MOUSE CLICK: Released Button.left at (1564, 1483)
+[2025-07-14 13:39:31] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 13:39:31] KEY PRESS: Key: 
+[2025-07-14 14:04:14] MOUSE CLICK: Pressed Button.left at (2110, 1578)
+[2025-07-14 14:04:14] MOUSE CLICK: Released Button.left at (2110, 1581)
+[2025-07-14 14:04:15] MOUSE CLICK: Pressed Button.right at (2067, 1355)
+[2025-07-14 14:04:15] MOUSE CLICK: Released Button.right at (2067, 1355)
+[2025-07-14 14:04:16] MOUSE CLICK: Pressed Button.left at (1927, 1305)
+[2025-07-14 14:04:16] MOUSE CLICK: Released Button.left at (1927, 1305)
+[2025-07-14 14:04:18] KEY PRESS: Key: w
+[2025-07-14 14:04:19] KEY PRESS: Key: h
+[2025-07-14 14:04:19] KEY PRESS: Key: a
+[2025-07-14 14:04:20] KEY PRESS: Key: t
+[2025-07-14 14:04:20] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:04:20] KEY PRESS: Key: i
+[2025-07-14 14:04:20] KEY PRESS: Key: s
+[2025-07-14 14:04:20] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:04:21] KEY PRESS: Key: t
+[2025-07-14 14:04:21] KEY PRESS: Key: h
+[2025-07-14 14:04:21] KEY PRESS: Key: e
+[2025-07-14 14:04:21] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:04:21] KEY PRESS: Key: t
+[2025-07-14 14:04:21] KEY PRESS: Key: i
+[2025-07-14 14:04:21] KEY PRESS: Key: m
+[2025-07-14 14:04:21] KEY PRESS: Key: e
+[2025-07-14 14:04:22] SPECIAL KEY PRESS: Key: Key.enter
+[2025-07-14 14:04:30] MOUSE CLICK: Pressed Button.left at (2129, 1573)
+[2025-07-14 14:04:30] MOUSE CLICK: Released Button.left at (2128, 1573)
+[2025-07-14 14:04:31] MOUSE CLICK: Pressed Button.right at (2063, 1352)
+[2025-07-14 14:04:31] MOUSE CLICK: Released Button.right at (2063, 1352)
+[2025-07-14 14:04:32] MOUSE CLICK: Pressed Button.left at (1986, 1308)
+[2025-07-14 14:04:32] MOUSE CLICK: Released Button.left at (1987, 1308)
+[2025-07-14 14:04:33] KEY PRESS: Key: w
+[2025-07-14 14:04:34] KEY PRESS: Key: h
+[2025-07-14 14:04:34] KEY PRESS: Key: a
+[2025-07-14 14:04:34] KEY PRESS: Key: t
+[2025-07-14 14:04:34] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:04:34] KEY PRESS: Key: i
+[2025-07-14 14:04:34] KEY PRESS: Key: s
+[2025-07-14 14:04:34] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:04:35] KEY PRESS: Key: t
+[2025-07-14 14:04:35] KEY PRESS: Key: h
+[2025-07-14 14:04:35] KEY PRESS: Key: e
+[2025-07-14 14:04:35] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:04:35] KEY PRESS: Key: t
+[2025-07-14 14:04:35] KEY PRESS: Key: i
+[2025-07-14 14:04:35] KEY PRESS: Key: m
+[2025-07-14 14:04:35] KEY PRESS: Key: e
+[2025-07-14 14:04:39] MOUSE CLICK: Pressed Button.left at (646, 480)
+[2025-07-14 14:04:39] MOUSE CLICK: Released Button.left at (646, 480)
+[2025-07-14 14:04:44] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 14:04:44] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 14:04:44] KEY PRESS: Key: 
+[2025-07-14 14:07:57] MOUSE CLICK: Pressed Button.left at (2123, 1574)
+[2025-07-14 14:07:57] MOUSE CLICK: Released Button.left at (2123, 1574)
+[2025-07-14 14:08:00] MOUSE CLICK: Pressed Button.right at (2055, 1363)
+[2025-07-14 14:08:00] MOUSE CLICK: Released Button.right at (2055, 1363)
+[2025-07-14 14:08:02] MOUSE CLICK: Pressed Button.left at (1963, 1310)
+[2025-07-14 14:08:02] MOUSE CLICK: Released Button.left at (1963, 1310)
+[2025-07-14 14:08:04] KEY PRESS: Key: w
+[2025-07-14 14:08:04] KEY PRESS: Key: h
+[2025-07-14 14:08:04] KEY PRESS: Key: a
+[2025-07-14 14:08:04] KEY PRESS: Key: t
+[2025-07-14 14:08:04] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:08:04] KEY PRESS: Key: i
+[2025-07-14 14:08:04] KEY PRESS: Key: s
+[2025-07-14 14:08:04] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:08:05] KEY PRESS: Key: t
+[2025-07-14 14:08:05] KEY PRESS: Key: h
+[2025-07-14 14:08:05] KEY PRESS: Key: e
+[2025-07-14 14:08:05] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:08:05] KEY PRESS: Key: t
+[2025-07-14 14:08:05] KEY PRESS: Key: i
+[2025-07-14 14:08:05] KEY PRESS: Key: m
+[2025-07-14 14:08:05] KEY PRESS: Key: e
+[2025-07-14 14:08:08] SPECIAL KEY PRESS: Key: Key.enter
+[2025-07-14 14:08:12] MOUSE CLICK: Pressed Button.left at (355, 209)
+[2025-07-14 14:08:12] MOUSE CLICK: Released Button.left at (355, 209)
+[2025-07-14 14:08:16] MOUSE CLICK: Pressed Button.left at (301, 71)
+[2025-07-14 14:08:16] MOUSE CLICK: Released Button.left at (302, 88)
+[2025-07-14 14:08:18] MOUSE CLICK: Pressed Button.left at (1459, 883)
+[2025-07-14 14:08:18] MOUSE CLICK: Released Button.left at (1459, 883)
+[2025-07-14 14:08:27] MOUSE CLICK: Pressed Button.left at (2135, 1568)
+[2025-07-14 14:08:27] MOUSE CLICK: Released Button.left at (2135, 1568)
+[2025-07-14 14:08:29] MOUSE CLICK: Pressed Button.right at (2059, 1355)
+[2025-07-14 14:08:29] MOUSE CLICK: Released Button.right at (2059, 1355)
+[2025-07-14 14:08:30] MOUSE CLICK: Pressed Button.left at (2011, 1302)
+[2025-07-14 14:08:30] MOUSE CLICK: Released Button.left at (2011, 1302)
+[2025-07-14 14:08:31] MOUSE CLICK: Pressed Button.left at (413, 59)
+[2025-07-14 14:08:33] MOUSE CLICK: Released Button.left at (1454, 706)
+[2025-07-14 14:08:34] KEY PRESS: Key: w
+[2025-07-14 14:08:35] KEY PRESS: Key: h
+[2025-07-14 14:08:35] KEY PRESS: Key: a
+[2025-07-14 14:08:36] KEY PRESS: Key: t
+[2025-07-14 14:08:36] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:08:36] KEY PRESS: Key: i
+[2025-07-14 14:08:36] KEY PRESS: Key: s
+[2025-07-14 14:08:37] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:08:37] KEY PRESS: Key: t
+[2025-07-14 14:08:37] KEY PRESS: Key: h
+[2025-07-14 14:08:37] KEY PRESS: Key: e
+[2025-07-14 14:08:37] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:08:37] KEY PRESS: Key: t
+[2025-07-14 14:08:37] KEY PRESS: Key: i
+[2025-07-14 14:08:37] KEY PRESS: Key: m
+[2025-07-14 14:08:37] KEY PRESS: Key: e
+[2025-07-14 14:08:40] MOUSE CLICK: Pressed Button.left at (1413, 850)
+[2025-07-14 14:08:40] MOUSE CLICK: Released Button.left at (1413, 850)
+[2025-07-14 14:08:42] MOUSE CLICK: Pressed Button.left at (1417, 733)
+[2025-07-14 14:08:45] MOUSE CLICK: Released Button.left at (1531, 981)
+[2025-07-14 14:08:46] SPECIAL KEY PRESS: Key: Key.cmd
+[2025-07-14 14:08:46] SPECIAL KEY PRESS: Key: Key.shift
+[2025-07-14 14:08:46] KEY PRESS: Key: S
+[2025-07-14 14:08:48] MOUSE CLICK: Pressed Button.left at (2034, 1464)
+[2025-07-14 14:08:49] MOUSE CLICK: Released Button.left at (819, 379)
+[2025-07-14 14:08:51] MOUSE CLICK: Pressed Button.left at (1590, 1129)
+[2025-07-14 14:08:51] MOUSE CLICK: Released Button.left at (1590, 1129)
+[2025-07-14 14:08:53] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 14:08:53] MOUSE CLICK: Pressed Button.left at (1327, 1485)
+[2025-07-14 14:08:53] MOUSE CLICK: Released Button.left at (1327, 1485)
+[2025-07-14 14:08:54] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 14:08:54] KEY PRESS: Key: 
+[2025-07-14 14:30:28] MOUSE CLICK: Pressed Button.left at (2171, 1573)
+[2025-07-14 14:30:29] MOUSE CLICK: Released Button.left at (2171, 1573)
+[2025-07-14 14:30:31] MOUSE CLICK: Pressed Button.left at (2132, 1575)
+[2025-07-14 14:30:31] MOUSE CLICK: Released Button.left at (2132, 1575)
+[2025-07-14 14:30:32] MOUSE CLICK: Pressed Button.left at (2447, 230)
+[2025-07-14 14:30:32] MOUSE CLICK: Released Button.left at (2447, 230)
+[2025-07-14 14:30:34] MOUSE CLICK: Pressed Button.right at (2067, 1350)
+[2025-07-14 14:30:35] MOUSE CLICK: Released Button.right at (2067, 1350)
+[2025-07-14 14:30:36] MOUSE CLICK: Pressed Button.left at (2012, 1299)
+[2025-07-14 14:30:36] MOUSE CLICK: Released Button.left at (2012, 1299)
+[2025-07-14 14:30:37] KEY PRESS: Key: w
+[2025-07-14 14:30:37] KEY PRESS: Key: h
+[2025-07-14 14:30:37] KEY PRESS: Key: a
+[2025-07-14 14:30:38] KEY PRESS: Key: t
+[2025-07-14 14:30:38] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:30:38] KEY PRESS: Key: t
+[2025-07-14 14:30:38] KEY PRESS: Key: i
+[2025-07-14 14:30:38] KEY PRESS: Key: m
+[2025-07-14 14:30:38] KEY PRESS: Key: e
+[2025-07-14 14:30:39] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:30:39] KEY PRESS: Key: i
+[2025-07-14 14:30:39] KEY PRESS: Key: s
+[2025-07-14 14:30:39] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:30:39] KEY PRESS: Key: i
+[2025-07-14 14:30:39] KEY PRESS: Key: t
+[2025-07-14 14:30:41] SPECIAL KEY PRESS: Key: Key.enter
+[2025-07-14 14:30:45] MOUSE CLICK: Pressed Button.left at (500, 188)
+[2025-07-14 14:30:46] MOUSE CLICK: Released Button.left at (699, 288)
+[2025-07-14 14:30:48] SPECIAL KEY PRESS: Key: Key.cmd
+[2025-07-14 14:30:48] SPECIAL KEY PRESS: Key: Key.shift
+[2025-07-14 14:30:48] KEY PRESS: Key: S
+[2025-07-14 14:30:50] MOUSE CLICK: Pressed Button.left at (139, 117)
+[2025-07-14 14:30:54] MOUSE CLICK: Released Button.left at (2193, 1513)
+[2025-07-14 14:30:56] MOUSE CLICK: Pressed Button.left at (1520, 900)
+[2025-07-14 14:30:56] MOUSE CLICK: Released Button.left at (1519, 900)
+[2025-07-14 14:30:58] MOUSE CLICK: Pressed Button.left at (1118, 1481)
+[2025-07-14 14:30:58] MOUSE CLICK: Released Button.left at (1118, 1481)
+[2025-07-14 14:30:58] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 14:31:00] KEY PRESS: Key: 
+[2025-07-14 14:31:28] MOUSE CLICK: Pressed Button.left at (2125, 1568)
+[2025-07-14 14:31:28] MOUSE CLICK: Released Button.left at (2125, 1568)
+[2025-07-14 14:31:30] MOUSE CLICK: Pressed Button.right at (2070, 1356)
+[2025-07-14 14:31:30] MOUSE CLICK: Released Button.right at (2070, 1356)
+[2025-07-14 14:31:31] MOUSE CLICK: Pressed Button.left at (2014, 1308)
+[2025-07-14 14:31:31] MOUSE CLICK: Released Button.left at (2014, 1308)
+[2025-07-14 14:31:32] KEY PRESS: Key: w
+[2025-07-14 14:31:33] KEY PRESS: Key: h
+[2025-07-14 14:31:33] KEY PRESS: Key: a
+[2025-07-14 14:31:33] KEY PRESS: Key: t
+[2025-07-14 14:31:33] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:31:33] KEY PRESS: Key: t
+[2025-07-14 14:31:33] KEY PRESS: Key: i
+[2025-07-14 14:31:33] KEY PRESS: Key: m
+[2025-07-14 14:31:33] KEY PRESS: Key: e
+[2025-07-14 14:31:33] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:31:34] KEY PRESS: Key: i
+[2025-07-14 14:31:34] KEY PRESS: Key: s
+[2025-07-14 14:31:34] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 14:31:34] KEY PRESS: Key: i
+[2025-07-14 14:31:34] KEY PRESS: Key: t
+[2025-07-14 14:31:37] MOUSE CLICK: Pressed Button.left at (582, 267)
+[2025-07-14 14:31:38] MOUSE CLICK: Released Button.left at (1339, 780)
+[2025-07-14 14:31:39] SPECIAL KEY PRESS: Key: Key.enter
+[2025-07-14 14:31:40] MOUSE CLICK: Pressed Button.left at (1293, 908)
+[2025-07-14 14:31:40] MOUSE CLICK: Released Button.left at (1293, 908)
+[2025-07-14 14:31:42] MOUSE CLICK: Pressed Button.left at (1303, 726)
+[2025-07-14 14:31:42] MOUSE CLICK: Released Button.left at (1329, 982)
+[2025-07-14 14:31:44] MOUSE CLICK: Pressed Button.left at (1509, 1146)
+[2025-07-14 14:31:44] MOUSE CLICK: Released Button.left at (1509, 1148)
+[2025-07-14 14:31:45] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 14:31:47] KEY PRESS: Key: 
+[2025-07-14 15:18:49] MOUSE CLICK: Pressed Button.left at (2129, 1571)
+[2025-07-14 15:18:49] MOUSE CLICK: Released Button.left at (2129, 1571)
+[2025-07-14 15:18:51] MOUSE CLICK: Pressed Button.right at (2065, 1362)
+[2025-07-14 15:18:51] MOUSE CLICK: Released Button.right at (2065, 1362)
+[2025-07-14 15:18:52] MOUSE CLICK: Pressed Button.left at (2039, 1308)
+[2025-07-14 15:18:52] MOUSE CLICK: Released Button.left at (2039, 1308)
+[2025-07-14 15:18:56] MOUSE CLICK: Pressed Button.left at (528, 184)
+[2025-07-14 15:18:57] MOUSE CLICK: Released Button.left at (1715, 661)
+[2025-07-14 15:18:58] KEY PRESS: Key: w
+[2025-07-14 15:18:58] KEY PRESS: Key: h
+[2025-07-14 15:18:58] KEY PRESS: Key: a
+[2025-07-14 15:18:58] KEY PRESS: Key: t
+[2025-07-14 15:18:58] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 15:18:58] KEY PRESS: Key: i
+[2025-07-14 15:18:59] KEY PRESS: Key: s
+[2025-07-14 15:18:59] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 15:18:59] KEY PRESS: Key: t
+[2025-07-14 15:18:59] KEY PRESS: Key: h
+[2025-07-14 15:18:59] KEY PRESS: Key: e
+[2025-07-14 15:18:59] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 15:19:00] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 15:19:00] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 15:19:01] SPECIAL KEY PRESS: Key: Key.media_volume_down
+[2025-07-14 15:19:03] KEY PRESS: Key: t
+[2025-07-14 15:19:03] KEY PRESS: Key: i
+[2025-07-14 15:19:03] KEY PRESS: Key: m
+[2025-07-14 15:19:03] KEY PRESS: Key: e
+[2025-07-14 15:19:04] SPECIAL KEY PRESS: Key: Key.enter
+[2025-07-14 15:19:10] MOUSE CLICK: Pressed Button.left at (1377, 729)
+[2025-07-14 15:19:11] MOUSE CLICK: Released Button.left at (1561, 878)
+[2025-07-14 15:19:12] SPECIAL KEY PRESS: Key: Key.cmd
+[2025-07-14 15:19:12] SPECIAL KEY PRESS: Key: Key.shift
+[2025-07-14 15:19:13] KEY PRESS: Key: S
+[2025-07-14 15:19:15] MOUSE CLICK: Pressed Button.left at (2072, 1201)
+[2025-07-14 15:19:16] MOUSE CLICK: Released Button.left at (1007, 325)
+[2025-07-14 15:19:17] MOUSE CLICK: Pressed Button.left at (1620, 1034)
+[2025-07-14 15:19:18] MOUSE CLICK: Released Button.left at (1620, 1034)
+[2025-07-14 15:19:19] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 15:19:20] KEY PRESS: Key: 
+[2025-07-14 17:01:24] MOUSE CLICK: Pressed Button.left at (2131, 1575)
+[2025-07-14 17:01:24] MOUSE CLICK: Released Button.left at (2131, 1575)
+[2025-07-14 17:01:25] MOUSE CLICK: Pressed Button.right at (2064, 1355)
+[2025-07-14 17:01:25] MOUSE CLICK: Released Button.right at (2064, 1355)
+[2025-07-14 17:01:27] MOUSE CLICK: Pressed Button.left at (1993, 1290)
+[2025-07-14 17:01:27] MOUSE CLICK: Released Button.left at (1993, 1290)
+[2025-07-14 17:01:29] MOUSE CLICK: Pressed Button.left at (426, 101)
+[2025-07-14 17:01:30] MOUSE CLICK: Released Button.left at (1382, 760)
+[2025-07-14 17:01:32] KEY PRESS: Key: w
+[2025-07-14 17:01:32] KEY PRESS: Key: h
+[2025-07-14 17:01:32] KEY PRESS: Key: a
+[2025-07-14 17:01:32] KEY PRESS: Key: t
+[2025-07-14 17:01:32] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 17:01:32] KEY PRESS: Key: i
+[2025-07-14 17:01:32] KEY PRESS: Key: s
+[2025-07-14 17:01:32] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 17:01:33] KEY PRESS: Key: t
+[2025-07-14 17:01:33] KEY PRESS: Key: h
+[2025-07-14 17:01:33] KEY PRESS: Key: e
+[2025-07-14 17:01:33] SPECIAL KEY PRESS: Key: Key.space
+[2025-07-14 17:01:33] KEY PRESS: Key: t
+[2025-07-14 17:01:33] KEY PRESS: Key: i
+[2025-07-14 17:01:33] KEY PRESS: Key: m
+[2025-07-14 17:01:33] KEY PRESS: Key: e
+[2025-07-14 17:01:35] SPECIAL KEY PRESS: Key: Key.enter
+[2025-07-14 17:01:40] MOUSE CLICK: Pressed Button.left at (1484, 898)
+[2025-07-14 17:01:40] MOUSE CLICK: Released Button.left at (1484, 898)
+[2025-07-14 17:01:55] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 17:02:05] MOUSE CLICK: Pressed Button.left at (1346, 1269)
+[2025-07-14 17:02:05] MOUSE CLICK: Released Button.left at (1346, 1269)
+[2025-07-14 17:02:23] SPECIAL KEY PRESS: Key: Key.ctrl_l
+[2025-07-14 17:02:24] KEY PRESS: Key: 

@@ -18,10 +18,11 @@ def run_self_optimizer():
     print_summary(summary)
 
 def main():
+    # Load environment variables
     load_dotenv()
     print("🤖 Friday AI Assistant is starting up...")
 
-    # 1) Start input logger thread
+    # 1) Start the input logger in its own thread
     threading.Thread(
         target=start_listeners,
         name="InputLoggerThread",
@@ -29,19 +30,19 @@ def main():
     ).start()
     print("🎧 Input logger running.")
 
-    # 2) Launch system tray icon thread
+    # 2) Launch the system tray icon (right-click → Open GUI / Quit)
     start_tray_in_thread()
-    print("🍊 System tray icon launched.")
+    print("🍊 System tray icon launched. Right-click to open GUI or Quit.")
 
-    # 3) Start hotkey listener thread
+    # 3) Start the global hotkey listener (Ctrl+Shift+F)
     threading.Thread(
         target=start_hotkey_listener,
         name="HotkeyListenerThread",
         daemon=True
     ).start()
-    print(f"⌨️ Listening for global hotkey: Ctrl+Shift+F")
+    print("⌨️ Listening for global hotkey: Ctrl+Shift+F")
 
-    # 4) Schedule daily tasks
+    # 4) Schedule daily tasks (self-summary at 08:00; routing optimizer at 08:05)
     scheduler = BackgroundScheduler()
     scheduler.add_job(
         run_self_optimizer,
@@ -57,7 +58,7 @@ def main():
     print("📅 Scheduled daily summary at 08:00.")
     print("🔄 Scheduled routing optimizer at 08:05.")
 
-    # 5) Enter main voice loop (fallback if hotkey or tray not used)
+    # 5) Voice loop fallback (if GUI/hotkey not used)
     try:
         while True:
             recognize_speech_and_act()

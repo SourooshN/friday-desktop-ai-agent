@@ -1,24 +1,30 @@
-import subprocess
+# core/llm/llm_interface.py
 
-def query_ollama(prompt: str, model: str = "nous-hermes:13b") -> str:
-    try:
-        result = subprocess.run(
-            ["ollama", "run", model],
-            input=prompt.encode(),
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            timeout=120  # prevent hanging
-        )
+import os
+import requests
+from urllib.parse import quote
 
-        if result.returncode != 0:
-            return f"[❌ ERROR] Ollama error: {result.stderr.decode().strip()}"
+# If you set OLLAMA_HOST in your .env, it’ll pick that up; otherwise defaults to localhost
+BASE_URL = os.getenv("OLLAMA_HOST", "http://localhost:11434")
 
-        # Filter out Ollama startup banners and just return the generated text
-        output = result.stdout.decode().split("\n")
-        answer_lines = [line for line in output if not line.startswith(">>>")]
-        return "\n".join(answer_lines).strip()
+def query_model(model: str, prompt: str, timeout: int = 30) -> str:
+    """
+    Send `prompt` to the Ollama HTTP API for the given `model`,
+    URL-encoding the model name so colons don’t break the path.
+    Returns the generated completion text.
+    """
+    # URL-encode the entire model string (e.g. "nous-hermes:13b" → "nous-hermes%3A13b")
+    enc_model = quote(model, safe="")
+    url = f"{BASE_URL}/models/{enc_model}/predict"
 
-    except subprocess.TimeoutExpired:
-        return "[⏱️] Ollama timed out. Try a shorter or different prompt."
-    except Exception as e:
-        return f"[❗] Unexpected error: {str(e)}"
+    resp = requests.post(
+        url,
+        json={"prompt": prompt},
+        timeout=timeout
+    )
+    # Will raise an HTTPError if Ollama returns 4xx/5xx
+    resp.raise_for_status()
+
+    data = resp.json()
+    # Ollama’s payload uses "completion"
+    return data.get("completion", "")

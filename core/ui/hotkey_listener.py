@@ -5,7 +5,7 @@ from core.ui.text_interface import open_text_prompt
 from core.voice.voice_interface import recognize_speech_and_act
 
 def on_activate_text():
-    """Ctrl+Shift+T → open text prompt."""
+    """Ctrl+Shift+T → open the text prompt."""
     open_text_prompt()
 
 def on_activate_voice():
@@ -15,8 +15,8 @@ def on_activate_voice():
 def start_hotkey_listener():
     """
     Listen globally for:
-      • Ctrl+Shift+T to open the text prompt
-      • Ctrl+Shift+F to begin voice recognition
+    • Ctrl+Shift+T → text prompt
+    • Ctrl+Shift+F → voice command
     """
     hotkeys = {
         '<ctrl>+<shift>+t': on_activate_text,

@@ -1,15 +1,13 @@
 # core/brain/model_selector.py
 
-"""
-A simple façade over our agent_router to provide a consistent
-`query_model()` API and abstract away HTTP details.
-"""
+from core.brain.config.routing_config import ROUTING_CONFIG
 
-from core.brain.agent_router import route_task
-
-def query_model(query: str) -> str:
+def select_model_for_intent(intent: str) -> str:
     """
-    Send the raw user query to the appropriate Ollama model
-    via our agent_router logic, and return its response.
+    Return the model for a given intent,
+    falling back to 'general' if not found.
     """
-    return route_task(query)
+    model = ROUTING_CONFIG.get(intent)
+    if not model:
+        model = ROUTING_CONFIG.get("general")
+    return model

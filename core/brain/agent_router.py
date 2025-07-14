@@ -7,14 +7,10 @@ from core.brain.memory import log_interaction
 
 def route_and_query(intent: str, text: str) -> str:
     """
-    Determine which model to use based on the intent,
-    query that model with the provided text,
-    record the interaction in memory, and return the response.
+    Choose the right model based on intent (using routing_config),
+    send it the text, log the interaction, and return the response.
     """
-    model_name = select_model_for_intent(intent)
-    response = query_model(model_name, text)
-    log_interaction(intent=intent, 
-                    command=text, 
-                    model_name=model_name, 
-                    response=response)
+    model = select_model_for_intent(intent)
+    response = query_model(model, text)
+    log_interaction(intent, text, model, response)
     return response

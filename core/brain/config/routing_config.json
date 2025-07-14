@@ -1,6 +1,8 @@
 {
-  "code": ["code", "build", "program", "python", "function", "script", "debug"],
-  "cyber": ["hack", "pentest", "vulnerability", "scan", "security", "exploit"],
-  "agent": ["automate", "workflow", "schedule", "task", "agent"],
-  "general": []
+  "default": "nous-hermes:13b",
+  "code": "nous-coder:16b",
+  "security": "nous-security:13b",
+  "general": "nous-hermes:13b",
+  "voice": "nous-hermes:13b",
+  "text": "nous-hermes:13b"
 }
